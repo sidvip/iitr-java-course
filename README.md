@@ -14,9 +14,9 @@ This repository contains all of the lab sessions, assignments and code related t
 
 
 ## Lab Sessions
-1- Lab1- https://github.com/sidvip/iitr-java-course/tree/development/labs/lab-1
-2- Lab2- https://github.com/sidvip/iitr-java-course/tree/development/labs/lab-2
+1. Lab1- https://github.com/sidvip/iitr-java-course/tree/development/labs/lab-1
+2. Lab2- https://github.com/sidvip/iitr-java-course/tree/development/labs/lab-2
 
 ## Assignments
 
-1- Assignment1- https://github.com/sidvip/iitr-java-course/tree/development/assignments/assignment-1/G4B9_DSA_Rubric
+1. Assignment1- https://github.com/sidvip/iitr-java-course/tree/development/assignments/assignment-1/G4B9_DSA_Rubric
