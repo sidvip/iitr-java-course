@@ -1,0 +1,4 @@
+CREATE PROCEDURE `rating_avg` ()
+BEGIN
+
+END
